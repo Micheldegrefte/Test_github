@@ -1,1 +1,2 @@
-Dit is versie 1.0
+Dit is versie 1.0.
+/* Mijn nieuwe commentaar */
